@@ -1,1 +1,1 @@
-test2 po pobraniu z gitbuba
+test2 po pobraniu z gitbuba testowy_branch
