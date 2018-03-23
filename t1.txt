@@ -1,1 +1,1 @@
-test1 i takie tam
+test1 i takie tam po pobraniu z gitbuba
